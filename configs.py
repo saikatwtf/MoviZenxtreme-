@@ -32,9 +32,9 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 🧑🏻‍💻 **Developer:** @AnnihilusOP
 
-👥 **Support Group:** [MovizeniX](https://t.me/joinchat/WHBAKyogxGJa-D7L)
+👥 **Support Group:** [MovizeniX](https://t.me/MoviZeniX)
 
-📢 **Updates Channel:** [MoviZenX](https://t.me/joinchat/NWByRuNzh04yMWJl)
+📢 **Updates Channel:** [MoviZenX](https://t.me/MoviZenX)
 """
 	ABOUT_DEV_TEXT = f"""
 🧑🏻‍💻 **Developer:** @AnnihilusOP
@@ -43,7 +43,7 @@ Developer is Super Noob. Just Learning from Official Docs. Please Donate the dev
 
 Also remember that developer will Delete Adult Contents from Database. So better don't Store Those Kind of Things.
 
-[Donate Now](https://www.paypal.me/AbirHasan2005) (PayPal)
+[Donate Now](https://www.paypal.me/SaikatSingh007) (PayPal)
 """
 	HOME_TEXT = """
 Hi, [{}](tg://user?id={})\n\nThis is Permanent **File Store Bot**.
